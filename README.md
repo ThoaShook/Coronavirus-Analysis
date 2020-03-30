@@ -48,8 +48,41 @@
             * Active cases went down sharply from 2/21 - 3/05/20.This is very easy to explain. Since the confirmed cases are stable, the recovery rate is increase sharply; therefore active cases drop dramatically.
             * China did very good job in handling the pandemic. Since the first week of March, confirmed cases are stablized, recovered rate are shot up, active cases drop sharply. The other countries should learn the ways China handles the crisis.
             * In China, since 03/05/20, Active Cases and Recovery Percentage is 22.82%, 73.32% respectively and Death Rate is 3.86%.
-    
-     
+    2. South Korea:
+        - The same methods are applied as in China to generate trending status for the pandemic in South Korea
+        ![](Image/TrendInSKorea.png)
+        - Keys Takeaway:
+            * There is a sudden surge in confirmed and active cases starts on 2/21/20 in South Korea
+            * The confirmed and active cases are almost identical
+            * However, death and recovered rate are flat - zero
+            * Death rate is 0.7 % compares to 3.86% of China
+            * South Korea has been well prepared for the pandemic!
+            * Active Cases and Recovery Percentage is 96.58%, 2.72% respectively and Death Rate is 0.7%.
+    3. Italy:
+        ![](Image/TrendInItaly.png)
+        - Keys Takeaway:
+            * In Italy,there isn't any report cases from 1/31/20 to 2/15/20
+            * There is a sudden surge for all status: confirmed,active deatth and recovery cases
+            * Death rate and recovery rate are almost identical: 6.11% & 8.67% respectively. An alarming rate!
+            * Trending is different than China
+            * Active Cases and Recovery Percentage is 85.22%, 8.67% respectively and Death Rate is 6.11% !!
+    4. USA:
+        ![](Image/TrendInUSA.png)
+        - Keys Takeaway:
+            * There aren't any report about the outbreak until 2/21/20
+            * There is a huge surge in confirmed cases and active cases starting at the beginning of March
+            * Confirmed and active cases are almost identical
+            * There is a subtle increase in death rate compare to recovered rate on 3/12/20
+            * Actice cases are huge, recovered less than deaths. USA must do something to control the situation
+            *  Active Cases and Recovery Percentage is 95.62%, 1.74% respectively and Death Rate is 2.63%.
+    5. Spain:
+        ![](Image/TrendInSpain.png)
+        - Keys Takeaway:
+            * There is a straight up surge in confirmed and active cases in Spain beginging on 3/12/20
+            * Confirmed cases and active cases are almost the same, meaning much less recovered cases
+            * Deaths rate and recovered rate both increase at the beginning of the second week in March
+            * Active Cases and Recovery Percentage is 91.73%, 5.77% respectively and Death Rate is 2.5%
+      
     
 
     
