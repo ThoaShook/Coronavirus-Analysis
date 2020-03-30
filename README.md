@@ -1,4 +1,14 @@
-# Coronavirus-Analysis
-#### Objective:
-  1. COVID-19 can have many disruptive effects on the global ecconmy.It reduces number of workers in the workforce,and therefore reduces the global supply of goods. Travel was banned. Schools have been closed. Stock market has been cracked. People are panic. 
-  2. This study uses datasets from Kaggal, working in hope it can shed light into answer the questions. How it starts; when it happened, who are affected. Which country got worse, which age groups are vulnerable to the disease. Who are suceptible to the disease: men or women?...etc
+#### Coronavirus-Analysis
+#####  Objective:
+1. COVID-19 has have profound disruptive effects on the global ecconmy.Thousands of people have been infected. Schools are closed. Most activites are prohibited.Travels are baned,and people are panic..,etc
+2. This study uses datasets from Kaggal, attempts to get the answers from questions that have arisen from the outbreak of the Covid-19:
+    * What are current status of impacted countries: confirmed cases, death rate, and recovery rate?
+    * Symptoms of Covid-19
+    * Men or women, who are more susceptible to the virus?
+    * What is the vulnerable age?
+    * What can we learn from China - ground zero?
+    * What are the future for USA, Italy, Spain, and India?
+* Feature Engineering:
+    * New feature is created using formula: 'Active cases' = 'Confirmed' - 'Recovery' - 'Death'
+    ![](Image/CountriesWithCovid19 copy.png)
+  
