@@ -10,5 +10,6 @@
     * What are the future for USA, Italy, Spain, and India?
 * Feature Engineering:
     * New feature is created using formula: 'Active cases' = 'Confirmed' - 'Recovery' - 'Death'
+    
     ![](Image/CountriesWithCovid19 copy.png)
   
