@@ -41,6 +41,13 @@
         - Use probability statistics and the 'group by' method to calculate the       number of confirmation cases, death rate, recovered rate, and active cases.
         - Create trending status using Matplotlib.pyplot
         ![](Image/TrendInChina.png)
+        - Keys Takeaway:
+            * Number of confirmed cases continues to grow sharply from 01/22/20 to the end for Feburary.It then starts level off the first week of March
+            * Number of Deaths are steadily increasing from 1/22/20 - 3/14/20. It continues increading even when the confirmed cases are stablized. It can be inferred that the previous confirmed cases were not be able to recovered.
+            * The recovery rate in the first 10 days is zero.But after that it increase sharply, and continue to grow. China did very well in fighting the virus
+            * Active cases went down sharply from 2/21 - 3/05/20.This is very easy to explain. Since the confirmed cases are stable, the recovery rate is increase sharply; therefore active cases drop dramatically.
+            * China did very good job in handling the pandemic. Since the first week of March, confirmed cases are stablized, recovered rate are shot up, active cases drop sharply. The other countries should learn the ways China handles the crisis.
+            * In China, since 03/05/20, Active Cases and Recovery Percentage is 22.82%, 73.32% respectively and Death Rate is 3.86%.
     
      
     
