@@ -9,7 +9,11 @@
     * What can we learn from China - ground zero?
     * What are the future for USA, Italy, Spain, and India?
 * Feature Engineering:
-    * New feature is created using formula: 'Active cases' = 'Confirmed' - 'Recovery' - 'Death'
+    * New feature is created using formula: 'Active cases' = 'Confirmed' - 'Recovery' - 'Death'.
+    ![](Image/CountriesWithCovid19_df.png)
+    * Using Matplotlib to draw a World Countries Map with Covid-19.
+    ![](Image/CountriesWithCovid19.png)
     
-    ![](Image/CountriesWithCovid19 copy.png)
+    
+    
   
