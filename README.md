@@ -11,8 +11,34 @@
 * Feature Engineering:
     * New feature is created using formula: 'Active cases' = 'Confirmed' - 'Recovery' - 'Death'.
     ![](Image/CountriesWithCovid19_df.png)
-    * Using Matplotlib to draw a World Countries Map with Covid-19.
-    ![](Image/CountriesWithCovid19.png)
+* Data Visualization:
+    * Word Countries Map
+        * Using Matplotlib to generate a World Countries Map with Covid-19.
+        ![](Image/CountriesWithCovid19.png)
+    * Plot a "Gender Distribution" bar chart using Matplotlib.pyplot.
+        * Male are more succeptible to the virus than female.
+        ![](Image/GenderDistribution.png)
+    * Plot an "Age Distribution" histogram using Matplotlib.pyplot.
+        * The average age of patient with the virus is 49 years old
+        * The youngest patient is zero - 0 years old
+        * The oldest patient is 96 years old
+        ![](Image/ageDistribution.png)
+    * Generate WordClouds using Natural Language Processing to extract texts from the 'Symptom' feature.
+        * Cough
+        * Fever
+        * Discomfort breath
+        * Vomiting
+        * Diarrhea
+        * Fatigue
+        * Chills
+        * Muscle pain,..etc
+        ![](Image/Covid-19Symptom.png)
+    * Create barh chart to rank countries from the most confirmed cases to the least.
+        ![](Image/CountriesWithVirus.png)
+    * 
+     
+    
+
     
     
     
