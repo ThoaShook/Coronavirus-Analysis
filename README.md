@@ -34,8 +34,14 @@
         * Muscle pain,..etc
         ![](Image/Covid-19Symptom.png)
     * Create barh chart to rank countries from the most confirmed cases to the least.
-        ![](Image/CountriesWithVirus.png)
-    * 
+        ![](Image/Covid-19CasesperCountry.png)
+* Countries Trending Analysis:
+    1. China:
+        - Using Index slicing to subset Region where the Country = 'Mainland China'
+        - Use probability statistics and the 'group by' method to calculate the       number of confirmation cases, death rate, recovered rate, and active cases.
+        - Create trending status using Matplotlib.pyplot
+        ![](Image/TrendInChina.png)
+    
      
     
 
