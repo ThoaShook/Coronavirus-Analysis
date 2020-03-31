@@ -52,7 +52,7 @@
         
         ![](Image/TrendInChina.png)
         
-        - Keys Takeaway:
+        - Key Takeaways:
             * Number of confirmed cases continues to grow sharply from 01/22/20 to the end for Feburary.It then starts level off the first week of March
             * Number of Deaths are steadily increasing from 1/22/20 - 3/14/20. It continues increading even when the confirmed cases are stablized. It can be inferred that the previous confirmed cases were not be able to recovered.
             * The recovery rate in the first 10 days is zero.But after that it increase sharply, and continue to grow. China did very well in fighting the virus
@@ -65,7 +65,7 @@
        - The same methods are applied as in China to generate trending status for the pandemic in South Korea
         ![](Image/TrendInSKorea.png)
         
-        - Keys Takeaway:
+        - Key Takeaways:
             * There is a sudden surge in confirmed and active cases starts on 2/21/20 in South Korea
             * The confirmed and active cases are almost identical
             * However, death and recovered rate are flat - zero
@@ -77,7 +77,7 @@
         
         ![](Image/TrendInItaly.png)
         
-        - Keys Takeaway:
+        - Key Takeaways:
             * In Italy,there isn't any report cases from 1/31/20 to 2/15/20
             * There is a sudden surge for all status: confirmed,active deatth and recovery cases
             * Death rate and recovery rate are almost identical: 6.11% & 8.67% respectively. An alarming rate!
@@ -88,7 +88,7 @@
         
         ![](Image/TrendInUSA.png)
         
-        - Keys Takeaway:
+        - Key Takeaways:
             * There aren't any report about the outbreak until 2/21/20
             * There is a huge surge in confirmed cases and active cases starting at the beginning of March
             * Confirmed and active cases are almost identical
@@ -100,7 +100,7 @@
         
         ![](Image/TrendInSpain.png)
         
-        - Keys Takeaway:
+        - Key Takeaways:
             * There is a straight up surge in confirmed and active cases in Spain beginging on 3/12/20
             * Confirmed cases and active cases are almost the same, meaning much less recovered cases
             * Deaths rate and recovered rate both increase at the beginning of the second week in March
