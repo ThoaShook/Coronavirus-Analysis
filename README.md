@@ -105,6 +105,11 @@
             * Confirmed cases and active cases are almost the same, meaning much less recovered cases
             * Deaths rate and recovered rate both increase at the beginning of the second week in March
             * Active Cases and Recovery Percentage is 91.73%, 5.77% respectively and Death Rate is 2.5%
+ 
+    6. World Trends:
+    
+        ![](Image/WorldTrends.png)
+
       
     
 
