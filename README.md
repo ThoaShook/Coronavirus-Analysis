@@ -45,7 +45,19 @@
 
 * Countries Trending Analysis:
     
-    1. China:
+    1. World Trends: 
+        
+        ![](Image/WorldTrends.png)
+        - Key Takeaways:
+            * There are 156 countries that are affected by Covid-19
+            * The start date and end date for this dataset are from 1/22/20 - 3/14/20 respectively (7 weeks)
+            * Confirmed cases start very low at the beginning of Feb,and increase sharply thereafter. It levels off on the beginning of March
+            * Active cases follow a bell shape with its peak on mid Feb suggesting an increasing in recovered cases from that date
+            * Very few cases are recovered at the start, but the recovered rate increase steadily. Whatever solutions here work!
+            * Death rate is increasing
+            * Will analyze countries with the highest confirmation cases on the list
+    
+    2. China:
         - Using Index slicing to subset Region where the Country = 'Mainland China'
         - Use probability statistics and the 'group by' method to calculate the       number of confirmation cases, death rate, recovered rate, and active cases.
         - Create trending status using Matplotlib.pyplot
@@ -60,7 +72,7 @@
             * China did very good job in handling the pandemic. Since the first week of March, confirmed cases are stablized, recovered rate are shot up, active cases drop sharply. The other countries should learn the ways China handles the crisis.
             * In China, since 03/05/20, Active Cases and Recovery Percentage is 22.82%, 73.32% respectively and Death Rate is 3.86%.
     
-    2. South Korea:
+    3. South Korea:
        
        - The same methods are applied as in China to generate trending status for the pandemic in South Korea
         ![](Image/TrendInSKorea.png)
@@ -73,7 +85,7 @@
             * South Korea has been well prepared for the pandemic!
             * Active Cases and Recovery Percentage is 96.58%, 2.72% respectively and Death Rate is 0.7%.
     
-    3. Italy:
+    4. Italy:
         
         ![](Image/TrendInItaly.png)
         
@@ -84,7 +96,7 @@
             * Trending is different than China
             * Active Cases and Recovery Percentage is 85.22%, 8.67% respectively and Death Rate is 6.11% !!
     
-    4. USA:
+    5. USA:
         
         ![](Image/TrendInUSA.png)
         
@@ -96,7 +108,7 @@
             * Actice cases are huge, recovered less than deaths. USA must do something to control the situation
             *  Active Cases and Recovery Percentage is 95.62%, 1.74% respectively and Death Rate is 2.63%.
     
-    5. Spain:
+    6. Spain:
         
         ![](Image/TrendInSpain.png)
         
@@ -106,9 +118,9 @@
             * Deaths rate and recovered rate both increase at the beginning of the second week in March
             * Active Cases and Recovery Percentage is 91.73%, 5.77% respectively and Death Rate is 2.5%
  
-    6. World Trends:
+ 
     
-        ![](Image/WorldTrends.png)
+      
 
       
     
