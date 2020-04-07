@@ -65,7 +65,6 @@
         
         ![](Image/Trend_in_China.png)
         
-        - Key Takeaways:
            
         ![](Image/China_KeyTakeaways.png)
         
@@ -75,9 +74,8 @@
         
         ![](Image/SKorea_Trend.png)
         
-        - Key Takeaways:
             
-        ![](Image/skorea_takeaways.png)
+        ![](Image/Skorea_info.png)
 
     4. Italy:
         
