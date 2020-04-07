@@ -21,58 +21,54 @@
         ![](Image/CountriesWithCovid19.png)
     
     * Plot a "Gender Distribution" bar chart using Matplotlib.pyplot.
-        * Male are more succeptible to the virus than female.
+       
         ![](Image/GenderDistribution.png)
+         * Male are more succeptible to the virus than female.
     
     * Plot an "Age Distribution" histogram using Matplotlib.pyplot.
+        
+        ![](Image/ageDistribution.png)
+        
         * The average age of patient with the virus is 49 years old
         * The youngest patient is zero - 0 years old
         * The oldest patient is 96 years old
-        ![](Image/ageDistribution.png)
     
     * Generate WordClouds using Natural Language Processing to extract texts from the 'Symptom' feature.
-        * Cough
-        * Fever
-        * Discomfort breath
-        * Vomiting
-        * Diarrhea
-        * Fatigue
-        * Chills
-        * Muscle pain,..etc
-        ![](Image/Covid-19Symptom.png)
     
-    * Create barh chart to rank countries from the most confirmed cases to the least.
-        ![](Image/Covid-19CasesperCountry.png)
+        ![](Image/Covid-19Symptom.png)
+        
+        * Patients with Covid-19 have these symptoms:
+            * Cough
+            * Fever
+            * Discomfort breath
+            * Vomiting
+            * Diarrhea
+            * Fatigue
+            * Chills
+            * Muscle pain,..etc
+            
 
 * Countries Trending Analysis:
     
     1. World Trends: 
         
-        ![](Image/WorldTrends.png)
+        ![](Image/WorldTrend.png)
+        
         - Key Takeaways:
-            * There are 156 countries that are affected by Covid-19
-            * The start date and end date for this dataset are from 1/22/20 - 3/14/20 respectively (7 weeks)
-            * Confirmed cases start very low at the beginning of Feb,and increase sharply thereafter. It levels off on the beginning of March
-            * Active cases follow a bell shape with its peak on mid Feb suggesting an increasing in recovered cases from that date
-            * Very few cases are recovered at the start, but the recovered rate increase steadily. Whatever solutions here work!
-            * Death rate is increasing
-            * Will analyze countries with the highest confirmation cases on the list
-    
+           
+        ![](Image/World_Key_Takeaways.png)
+
     2. China:
         - Using Index slicing to subset Region where the Country = 'Mainland China'
         - Use probability statistics and the 'group by' method to calculate the       number of confirmation cases, death rate, recovered rate, and active cases.
         - Create trending status using Matplotlib.pyplot
         
-        ![](Image/TrendInChina.png)
+        ![](Image/Trend_in_China.png)
         
         - Key Takeaways:
-            * Number of confirmed cases continues to grow sharply from 01/22/20 to the end for Feburary.It then starts level off the first week of March
-            * Number of Deaths are steadily increasing from 1/22/20 - 3/14/20. It continues increading even when the confirmed cases are stablized. It can be inferred that the previous confirmed cases were not be able to recovered.
-            * The recovery rate in the first 10 days is zero.But after that it increase sharply, and continue to grow. China did very well in fighting the virus
-            * Active cases went down sharply from 2/21 - 3/05/20.This is very easy to explain. Since the confirmed cases are stable, the recovery rate is increase sharply; therefore active cases drop dramatically.
-            * China did very good job in handling the pandemic. Since the first week of March, confirmed cases are stablized, recovered rate are shot up, active cases drop sharply. The other countries should learn the ways China handles the crisis.
-            * In China, since 03/05/20, Active Cases and Recovery Percentage is 22.82%, 73.32% respectively and Death Rate is 3.86%.
-    
+           
+        ![](Image/China_KeyTakeaways.png)
+        
     3. South Korea:
        
        - The same methods are applied as in China to generate trending status for the pandemic in South Korea
