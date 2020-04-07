@@ -125,6 +125,16 @@
         * The death rate in USA, Italy, and Spain all increase abruptly in March, by the first day April, the number of deaths by these countries are 4757; 13,155; and 9387 respectively
         * For the US, Italy, and Spain the death rates grow exponentially from the first day of March for Italy and middle of March for both Spain and USA. It can be infered that the virus may have been in these countries and spreading quietly among people without being detected or tested or awared and at a very early date as early as in China because travel ban hasn't applied earlier. These causes all together explain quite well the death rates in these countries.
     
+* World Trends Active Cases by Day
+
+    ![](Image/TrendsInActiveCasesInCountries.png)
+    
+    - Key Takeaways:
+    
+        * China and South Korea have very low number of active cases, by April 1st, the active cases in both are 1995 and 4155 respectively
+        * USA has a continuing rising active cases, by April 1st, the number of active cases in the USA is 200141 cases
+        * Both Italy and Spain have increasing active cases but by far a lot less than the USA. The active cases for these two countries by April 1st are 80572 and 72084 respectively
+        * Even though the confirmed and actives cases are high in the USA, the death rate so far is less than that of Italy and Spain. Italy and Spain should have taken a look at how the USA handles the pandemic.
     
 
       
