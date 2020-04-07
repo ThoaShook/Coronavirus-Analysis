@@ -114,6 +114,15 @@
         * Confirmed cases in both Italy and Spain are increasing, at 04/01/20 the confirmed cases in both countries are 110,574 and 104,118 respectively 
         * We should take notes and learn how China and South Korea handle the pandemic !
       
+* World Trends Death Cases by Day
+
+    ![](Image/DeathsInCountries.png)
+    
+    - Key Takeaways:
+    
+        
+    
+    
 
       
     
