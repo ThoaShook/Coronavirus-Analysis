@@ -77,7 +77,7 @@
         
         - Key Takeaways:
             
-        ![](Image/skorea_takeaways .png)
+        ![](Image/skorea_takeaways.png)
 
     4. Italy:
         
