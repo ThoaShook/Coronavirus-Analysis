@@ -120,7 +120,10 @@
     
     - Key Takeaways:
     
-        
+        * The death rate in China grow steadily while the other countries remain almost zero cases. However, in March 1st, the death rate in China is leveled off and by April 1st, number of deaths in China is 3,312.
+        * South Korea does very well in handling the pandemic, by April 1st, the number of deaths is 165 ! Very impressive!
+        * The death rate in USA, Italy, and Spain all increase abruptly in March, by the first day April, the number of deaths by these countries are 4757; 13,155; and 9387 respectively
+        * For the US, Italy, and Spain the death rates grow exponentially from the first day of March for Italy and middle of March for both Spain and USA. It can be infered that the virus may have been in these countries and spreading quietly among people without being detected or tested or awared and at a very early date as early as in China because travel ban hasn't applied earlier. These causes all together explain quite well the death rates in these countries.
     
     
 
