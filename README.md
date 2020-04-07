@@ -83,7 +83,7 @@
         
         - Key Takeaways:
             
-        ![](Image/Italy_keytakeaways.png)
+        ![](Image/ItalyInfo.png)
     
     5. USA:
         
@@ -91,7 +91,7 @@
         
         - Key Takeaways:
          
-        ![](Image/USA_info.png)
+        ![](Image/usaInfo.png)
         
     6. Spain:
         
@@ -99,7 +99,7 @@
         
         - Key Takeaways:
            
-        ![](Image/Spain_takeaways.png)
+        ![](Image/spainInfo.png)
         
   
     
