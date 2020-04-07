@@ -103,10 +103,16 @@
         
 * World Trends Confirmed Cases by Day
 
-    ![](Image/WordTrendConfirmedCases.png)
+    ![](Image/ConfirmedCasesInChina_SKorea_USA_Italy_Spain.png)
 
-    - 
- 
+    - Key Takeaways:
+     
+        * At the begining of February the confirmed cases in China, S.Korea, Italy, USA, & Spain are 11,871;12; 0; 6; and 1 respectively
+        * Confirmed cases In China rise steadily and in mid Feb, it seems Chinal has control over the pandemic. The confirmed cases of China are level off from mid Feb. At 04/01/20 confirmed cases are 81,555 cases
+        * Meanwhile at Mar 15th confirmed cases in USA start to increase suddenly, and at the beginning of April its confirmed cases are 213,372 cases
+        * South Korea has handled the pandemic very well. At 04/01/20 confirmed cases in South Korea are 9,887 cases
+        * Confirmed cases in both Italy and Spain are increasing, at 04/01/20 the confirmed cases in both countries are 110,574 and 104,118 respectively 
+        * We should take notes and learn how China and South Korea handle the pandemic !
       
 
       
