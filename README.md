@@ -83,7 +83,7 @@
         
         - Key Takeaways:
             
-        ![](Image/ItalyInfo.png)
+            ![](Image/ItalyInfo.png)
     
     5. USA:
         
@@ -91,7 +91,7 @@
         
         - Key Takeaways:
          
-        ![](Image/usaInfo.png)
+            ![](Image/usaInfo.png)
         
     6. Spain:
         
@@ -99,10 +99,14 @@
         
         - Key Takeaways:
            
-        ![](Image/spainInfo.png)
+            ![](Image/spainInfo.png)
         
-  
-    
+* World Trends Confirmed Cases by Day
+
+    ![](Image/WordTrendConfirmedCases.png)
+
+    - 
+ 
       
 
       
