@@ -12,13 +12,15 @@
 * Feature Engineering:
     
     * New feature is created using formula: 'Active cases' = 'Confirmed' - 'Recovery' - 'Death'.
-    ![](Image/CoronavirusWorldMap.png)
+    
+    ![](Image/CountriesWithCovid19_df.png)
 
 * Data Visualization:
     
     * Word Countries Map
         * Using Matplotlib to generate a World Countries Map with Covid-19.
-        ![](Image/CountriesWithCovid19.png)
+        
+        ![](Image/Coronavirus_WorldMap.png)
     
     * Plot a "Gender Distribution" bar chart using Matplotlib.pyplot.
        
