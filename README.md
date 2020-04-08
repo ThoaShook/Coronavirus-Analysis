@@ -12,7 +12,7 @@
 * Feature Engineering:
     
     * New feature is created using formula: 'Active cases' = 'Confirmed' - 'Recovery' - 'Death'.
-    ![](Image/CountriesWithCovid19_df.png)
+    ![](Image/CoronavirusWorldMap.png)
 
 * Data Visualization:
     
